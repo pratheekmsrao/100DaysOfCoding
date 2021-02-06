@@ -1,0 +1,4 @@
+1. Python data types
+2. python for loops
+3. python lists and dictionary
+4. python if and while condition
