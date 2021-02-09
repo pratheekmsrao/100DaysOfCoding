@@ -1,0 +1,7 @@
+download and install python
+start the python REPL
+evaluate simple expression
+the role of underscore in the REPL
+how to use print()
+	-output is a side-effect
+exiting the REPL
